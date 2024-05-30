@@ -19,4 +19,7 @@ I have included algorithmically generated waveforms like sine, square, saw, as w
 a pipe organ (based on doing a fourier anylsis of the pipe organ sample from musesounds,
 then reconstructing that with pure tones.)
 
+To create those waveforms it uses a variety of mathematical libraries,
+and to play the audio it uses a pygame window (there are definitly better ways of doing this).
+
 Hope you enjoy!
